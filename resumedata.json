@@ -1,0 +1,32 @@
+{
+	"details": {
+		"name": "shaik thajuddhin",
+		"edu": "MCA graduate"
+	},
+	"skills": ["java ", "python", "sql", "html", "css", "Bootstrap", "reactjs", "Django"],
+	"strenght": ["Postive thinking", "Quick learner", "Interpersonal skills"],
+	"languages": ["English", "Telugu", "Hindi"],
+	"hobbies": ["Playing cricket", "Crafts", "listenig Music"],
+	"career": "Work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.",
+	"education": {
+		"0": {
+			"no": "1",
+			"clg": "Rise Krishna Sai prakasam group of instustions, ongole",
+			"quli": "MCA",
+			"yop": "2020"
+		},
+		"1": {
+			"no": "2",
+			"clg": "Gayathri vidhya parishad,Kandukur",
+			"quli": "B.Sc(MPCs)",
+			"yop": "2018"
+		},
+		"2": {
+			"no": "3",
+			"clg": "Sri viveka Junior College,Kanduku",
+			"quli": "MPC)",
+			"yop": "2015"
+		}
+	},
+	"courses": ["Programming Foundations with JavaScript, HTML and CSS", "Introduction to Relational Database and SQL", "Computer Vision - Object Tracking with OpenCV and Python", "Full Stack Web Development with Flask - LinkedIn"]
+}
