@@ -1,13 +1,13 @@
 {
 	"details": {
-		"name": "shaik thajuddhin",
+		"name": "Shaik Thajuddhin",
 		"edu": "MCA graduate"
 	},
-	"skills": ["java ", "python", "sql", "html", "css", "Bootstrap", "reactjs", "Django"],
+	"skills": ["Java ", "Python", "Sql", "Html", "Css", "Bootstrap", "Reactjs", "Django"],
 	"strenght": ["Postive thinking", "Quick learner", "Interpersonal skills"],
 	"languages": ["English", "Telugu", "Hindi"],
 	"hobbies": ["Playing cricket", "Crafts", "listenig Music"],
-	"career": "Work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.",
+	"career": "To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills. Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.",
 	"education": {
 		"0": {
 			"no": "1",
